@@ -31,7 +31,12 @@ pip install -r requirements.txt
 ### Download Data
 Due to the file size limit, we put the data on other sites. Please first download the data and put it in `data` folder. The ATMFTraj dataset can be download at:  [here](https://huggingface.co/datasets/petchthwr/ATFMTraj), the SCAT dataset can be download at: [here](https://data.mendeley.com/datasets/8yn985bwz5/1)
 
+### Data Processing 
+
+![100003](./simple_plot/100003.png)
+
 ### Training & Evaluating
+
 To train Flight, run the following command:
 ```bash
 python pretrain.py
