@@ -1,3 +1,4 @@
+Code has been updated
 ## Introduction
 Flight2Vec is a flight-specific representation learning method to address two challenges, \ie, unbalanced behavior density and 3D spatial continuity
 
